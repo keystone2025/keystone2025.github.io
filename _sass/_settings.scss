@@ -1,17 +1,17 @@
 // Background colours
-$backgroundColour: #ffffff !default;
-$codeBackgroundColour: #fafafa !default;
-$featureBackgroundColour: #f9fafa !default;
-$accentColour: #05bf85 !default;
+$backgroundColour:       #ffffff !default; // white
+$codeBackgroundColour:   #fafafa !default; // off-white for code blocks
+$featureBackgroundColour:#D69D3A !default; // gold highlight for feature sections
+$accentColour:           #2B2F7A !default; // 🎓 main purple
 
 // Text colours
-$headingColour: #242e2b !default;
-$bodyColour: #384743 !default;
-$linkColour: #05bf85 !default;
-$hoverColour: #008000 !default;
-$focusColour: #fa407a !default;
-$captionColour: #a8adac !default;
-$white: #ffffff !default;
+$headingColour:          #2B2F7A !default; // purple headings
+$bodyColour:             #242e2b !default; // dark neutral for body text
+$linkColour:             #2B2F7A !default; // purple links
+$hoverColour:            #962123 !default; // burgundy red on hover
+$focusColour:            #D69D3A !default; // gold when focused
+$captionColour:          #962123 !default; // burgundy for small text/captions
+$white:                  #ffffff !default; // pure white
 
 // Typography
 $bodytype: (
